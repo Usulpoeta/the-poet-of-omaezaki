@@ -2,3 +2,5 @@ dart run d:\dart\hello_world.dart
 void main() {
   print("Hello, World!");
 }
+
+Sou da época do Cobol mas só estudei assembly do Apple II
